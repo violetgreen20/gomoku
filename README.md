@@ -4,7 +4,7 @@
 
 To compile this Aleo program, run:
 ```bash
-snarkvm build
+leo run 
 ```
 
 To execute this Aleo program, run:
